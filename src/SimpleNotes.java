@@ -5,7 +5,7 @@ public class SimpleNotes{
     public static void main(String[] args){
         FileOutputStream fout;
         if (args.length<1){
-            System.out.println("Usage ShowFile <file_name.txt> <data>\n" +
+            System.out.println("SimpleNotes <file_name.txt> <data>\n" +
                     "if u need more write 1 word, use:\n" +
                     "On Linux: 'data'\n" +
                     "On Windows \"data\"");
