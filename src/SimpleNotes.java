@@ -1,6 +1,5 @@
 import java.io.*;
 
-//Usage ShowFile <file_name.txt> <data>
 
 public class SimpleNotes{
     public static void main(String[] args){
